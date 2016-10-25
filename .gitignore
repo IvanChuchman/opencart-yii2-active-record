@@ -1,0 +1,22 @@
+#IDEs
+.idea
+.vscode
+.buildpath
+.project
+.settings
+nbproject
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# composer vendor dir
+/vendor
+composer.phar
+composer.lock
+
+# phpunit
+phpunit.phar
+/phpunit.xml

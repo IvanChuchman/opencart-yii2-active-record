@@ -1,5 +1,5 @@
 {
-    "name": "black-ice/yii2-active-record",
+    "name": "black-ice/opencart-yii2-active-record",
 	"description": "Yii2 ActiveRecord for OpenCart",
     "type": "library",
 	"license": "BSD-3-Clause",
@@ -9,5 +9,5 @@
 		"php": ">=5.4.0",
         "yiisoft/yii2": "^2.0"
     },
-	"autoload": { "psr-4": {"blackice\\": ""} }
+	"autoload": { "psr-4": {"blackice\\openCart\\": ""} }
 }

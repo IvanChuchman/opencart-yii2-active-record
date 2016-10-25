@@ -1,7 +1,7 @@
 <?php
 namespace blackice\openCart;
 
-require_once (__DIR__. '../../yiisoft/yii2/Yii.php');
+require_once (__DIR__. '/../../yiisoft/yii2/Yii.php');
 
 class YiiActiveRecord extends \yii\db\ActiveRecord
 {
